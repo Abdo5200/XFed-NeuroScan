@@ -134,9 +134,3 @@ Each service has its own detailed README:
 - [fl-server/README.md](fl-server/README.md)
 - [frontend/README.md](frontend/README.md)
 - [Hospital client template](core-api/hospital-client-package-template/README.md)
-
----
-
-## License
-
-[Add your license here]
