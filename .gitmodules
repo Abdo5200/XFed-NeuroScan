@@ -1,0 +1,12 @@
+[submodule "core-api"]
+	path = core-api
+	url = https://github.com/Abdo5200/GradProjectBackend.git
+[submodule "ai-backend"]
+	path = ai-backend
+	url = https://github.com/Abdo5200/ModelBackend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Abdo5200/GradProjectFrontend.git
+[submodule "fl-server"]
+	path = fl-server
+	url = https://github.com/Abdo5200/Federated-Learning-Server.git
