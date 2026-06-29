@@ -14,6 +14,12 @@ Hospital nodes send **both** gRPC training traffic and REST heartbeats directly 
 
 ---
 
+## My Role
+
+I'm responsible for the **`core-api`** (Spring Boot orchestration backend) and **`frontend`** (React dashboard) — covering authentication, hospital onboarding, FL round orchestration, and real-time dashboards. The AI/RAG pipeline (`ai-backend`) and FL aggregation engine (`fl-server`) were built by other team members.
+
+---
+
 ## Repository Structure
 
 This repo is a **Git submodule umbrella** — each service is tracked as a submodule.
